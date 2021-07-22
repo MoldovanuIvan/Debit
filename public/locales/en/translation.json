@@ -1,0 +1,19 @@
+{
+  "title": "Data",
+  "description": {
+    "part1": "Transaction",
+    "part2": "Charts",
+    "part3": "Debit per sender",
+    "part4": "Credit per sender",
+    "part5": "Data grid",
+    "part6": "Language",
+    "part7": "Transaction ID",
+    "part8": "Date",
+    "part9": "Debit, $",
+    "part10": "Credit, $",
+    "part11": "Sender, ID",
+    "part12": "Receiver, ID",
+    "part13": "Send",
+    "part14": "Data Grid"
+  }
+}
